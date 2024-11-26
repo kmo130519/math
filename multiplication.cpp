@@ -7,6 +7,7 @@
  * @param a 첫 번째 정수
  * @param b 두 번째 정수
  * @return 두 정수의 곱
+ * 테슽세ㅡㅌ사ㅣ타ㅣ스티ㅏ스타
  */
 int multiplication(int a, int b) {
     return a * b;
